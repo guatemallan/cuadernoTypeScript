@@ -10,7 +10,7 @@ Este cuaderno se complementa con otros repositorios para completar la ruta de en
 
 { [HTML](https://github.com/guatemallan/cuadernoHtmlCss/) → [CSS](https://github.com/guatemallan/cuadernoHtmlCss/) → [JavaScript](#contenidos-javascript) → [TypeScript](#contenidos-typescript) }  
  ↓  
-{ Angular ↔ React }  
+{ Angular ↔ React.js }  
  ↓  
 { Linux ↔ Dockers ↔ iA } { Java }  
 
@@ -20,4 +20,5 @@ Este cuaderno se complementa con otros repositorios para completar la ruta de en
 
 ## Contenidos TypeScript
 
-0. Introducción
+0. [Introducción](https://developer.mozilla.org/en-US/docs/Glossary/TypeScript)
+    1. [Instalación](/01.introduccion/funciones.ts)
